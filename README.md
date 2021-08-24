@@ -96,10 +96,13 @@ Your Gradescope login is your Make School email, and your password can be change
 
 Although all assignments for this course live in gradescope but I repeat the main ones here:
 
+### Weekly Reflections
+Like a professional standup, you'll submit your weekly accomplishments, blockers, and asks for help
+
 ### User Interviews, User Journeys, Wireframes, Entity Relation Diagrams (ERDs)
 
 
-**DUE DATE: Thursday, September 3**
+**DUE DATE: Thursday, September X**
 
 
 For your project, you will need to conduct user interviews, craft user journeys, build out wireframes, and construct ERDs to provide an origin story and starting point for your project. You will also be adding some of these to your product requirements document (PRD), which you will be sharing with your industry partner.
@@ -109,7 +112,7 @@ For your project, you will need to conduct user interviews, craft user journeys,
 ### Product Requirements Document (PRD)
 
 
-**DUE DATE: Thursday, September 10**
+**DUE DATE: Thursday, September X**
 
 For your project, you will construct a PRD, a document frequently used in industry to convey the purpose and specifications of a product. You will be sharing this artifact with your industry partner.
 
@@ -123,7 +126,7 @@ Copy the [PRD Template](https://docs.google.com/document/d/10u8lI0VhBcj69hdTFDsZ
 
 ### MVP
 
-**DUE DATE: Tue, October 6**
+**DUE DATE: Tue, October X**
 
 By the end of this course, you should have an MVP of your product that you will present both in class and to your industry partner.
 
@@ -135,7 +138,7 @@ By the end of this course, you should have an MVP of your product that you will 
 
 ### Presentation of MVP
 
-**Presentation format for SPD 2.1 Final, Tue Oct 6:**
+**Presentation format for SPD 2.1 Final, Tue Oct X:**
 
 10 minute MVP presentation to Dan in class:
 1. Dan user tests features on app (share link)
