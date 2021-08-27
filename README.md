@@ -77,14 +77,14 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 
 
 
-### Quizzes
+### In Class Assinments
 
-In place of a final exam, there will be **3 quizzes** held throughout the course of this term. They will be done in class on the below dates:
+In place of a final exam, there will be **3 in class assignments** turned in during this term. They will be done in class on the below dates:
 
 
-- **Quiz 1: Managing Timelines & Dependencies - Thursday, Sept 10 (CANCELED)**
-- **Quiz 2: Decision Making - Tuesday, Sept 24 (CANCELED)**
-- **Quiz 3: Delegating and Follow Through - Tuesday, Oct 1 (Now assignment on Gradescope)**
+- **Managing Timelines & Dependencies - Thursday, Sept TBD (CANCELED)**
+- **Decision Making - Tuesday, Sept TDB (CANCELED)**
+- **Delegating and Follow Through - Tuesday, Oct TBD (Now assignment on Gradescope)**
 
 ## Class Assignments
 
@@ -92,7 +92,7 @@ We will be using [Gradescope](gradescope.com), which allows us to provide fast a
 
 As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
 
-Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
+Your Gradescope login is your Dominican email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
 
 Although all assignments for this course live in gradescope but I repeat the main ones here:
 
