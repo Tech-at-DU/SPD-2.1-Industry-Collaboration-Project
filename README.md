@@ -28,7 +28,7 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
-**Course Dates:** Tuesday, August 20, 2020 – Thursday, October 6, 2020 (7 weeks)
+**Course Dates:** Tuesday, August 24, 2021 – Thursday, October 7, 2021 (7 weeks)
 
 **Class Times:** Tuesday and Thursday at 09:30 – 11:00am (14 class sessions)
 
@@ -74,13 +74,13 @@ Hybrid sections are a mixture of online and in person components. In person sess
 [sprint retro/planning + behavioral interview practice]: https://docs.google.com/presentation/d/1y3pTDlXk7W2bMNfSyHNnKaR1xnZ5UtaC5M4kzJMKGDU/edit#slide=id.p1
 [industry collab resume tips]: https://docs.google.com/presentation/d/1xGRk9KF46ooy9F4SYfe_lfpbDKZzM26FEF06_b4kAA4/edit#slide=id.g9b349a57bd_29_0
 
-### In Class Assinments
+### In Class Assignments
 
 In place of a final exam, there will be **3 in class assignments** turned in during this term. They will be done in class on the below dates:
 
-- **Managing Timelines & Dependencies - Thursday, Sept TBD (CANCELED)**
-- **Decision Making - Tuesday, Sept TDB (CANCELED)**
-- **Delegating and Follow Through - Tuesday, Oct TBD (Now assignment on Gradescope)**
+- **Managing Timelines & Dependencies - Thursday, Sept 2**
+- **Decision Making - Tuesday, Sept 14**
+- **Delegating and Follow Through - Tuesday, Sept 21**
 
 ## Class Assignments
 
@@ -98,7 +98,7 @@ Like a professional standup, you'll submit your weekly accomplishments, blockers
 
 ### User Interviews, User Journeys, Wireframes, Entity Relation Diagrams (ERDs)
 
-**DUE DATE: Thursday, September X**
+**DUE DATE: Thursday, September 3**
 
 For your project, you will need to conduct user interviews, craft user journeys, build out wireframes, and construct ERDs to provide an origin story and starting point for your project. You will also be adding some of these to your product requirements document (PRD), which you will be sharing with your industry partner.
 
@@ -106,7 +106,7 @@ For your project, you will need to conduct user interviews, craft user journeys,
 
 ### Product Requirements Document (PRD)
 
-**DUE DATE: Thursday, September X**
+**DUE DATE: Tuesday, September 7**
 
 For your project, you will construct a PRD, a document frequently used in industry to convey the purpose and specifications of a product. You will be sharing this artifact with your industry partner.
 
@@ -119,7 +119,7 @@ Copy the [PRD Template](https://docs.google.com/document/d/10u8lI0VhBcj69hdTFDsZ
 
 ### MVP
 
-**DUE DATE: Tue, October X**
+**DUE DATE: Thursday, October 7**
 
 By the end of this course, you should have an MVP of your product that you will present both in class and to your industry partner.
 
@@ -131,7 +131,7 @@ By the end of this course, you should have an MVP of your product that you will 
 
 ### Presentation of MVP
 
-**Presentation format for SPD 2.1 Final, Tue Oct X:**
+**Presentation format for SPD 2.1 Final, Thursday Oct 7:**
 
 10 minute MVP presentation to Dan in class:
 1. Dan user tests features on app (share link)
