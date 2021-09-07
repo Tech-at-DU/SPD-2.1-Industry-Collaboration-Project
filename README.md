@@ -78,9 +78,9 @@ Hybrid sections are a mixture of online and in person components. In person sess
 
 In place of a final exam, there will be **3 in class assignments** turned in during this term. They will be done in class on the below dates:
 
-- **Managing Timelines & Dependencies - Thursday, Sept 2**
-- **Decision Making - Tuesday, Sept 14**
-- **Delegating and Follow Through - Tuesday, Sept 21**
+- **Managing Timelines & Dependencies - Thursday, Sept 9**
+- **Decision Making - Tuesday, Sept 16**
+- **Delegating and Follow Through - Tuesday, Sept 23**
 
 ## Class Assignments
 
