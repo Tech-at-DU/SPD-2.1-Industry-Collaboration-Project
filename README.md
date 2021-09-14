@@ -65,7 +65,7 @@ Hybrid sections are a mixture of online and in person components. In person sess
 [sprint planning + assignment feedback]: https://docs.google.com/presentation/u/2/d/1HB9qspMRj1RCp07AQfP1qWjl2nwIs_LZCnbxnfxyEc4/edit?usp=drive_web&ouid=110519350466014153713
 [managing timelines and dependencies]: https://docs.google.com/presentation/d/1cRaWmpF9VkpICDaO4QyyqmT177jLAJxd_1mMwko-QFM/edit#slide=id.p1
 [sprint retro/planning + prd feedback]: https://docs.google.com/presentation/d/1UgT32VhHZIrjqDNdsFmKYs8BeFXLDRI13Jc4fe2ICDM/edit#slide=id.p1
-[decision making]: https://docs.google.com/presentation/d/1xWRONfK6jdQk1bpadVYYIdbUoAQ37HWHPhGLCgjZUGE/edit?usp=sharing
+[decision making]: https://docs.google.com/presentation/d/1EBMX0qU3_RMGWVfrLhKdf2OaT8bLkqnHmEecY51YKUE/edit?usp=sharing
 [sprint retro/planning + role breakouts 1]: https://docs.google.com/presentation/d/1PPlqFfwb40WSEyGpaBUmGgCqj8TtBDuYd_7OtdooIxM/edit#slide=id.p1
 [delegation and follow through]: https://docs.google.com/presentation/d/1ui3aElXtUIZY4AZmR5rBUZxm-QfbKNxLMABHdhH_nMc/edit#slide=id.p1
 [sprint retro/planning + conflict jigsaw]: https://docs.google.com/presentation/d/1fpZ0hYrWg9KNPCq0ZzBS2zWhpTqwrboin_k7WAYjIkY/edit#slide=id.p1
