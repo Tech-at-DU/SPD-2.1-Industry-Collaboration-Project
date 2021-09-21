@@ -55,7 +55,7 @@ Hybrid sections are a mixture of online and in person components. In person sess
 |  10   | Thur, Sept 23 | [Sprint Retro/Planning + Behavioral Interview Practice]  |                           |
 |  11   |  Tu, Sept 28  | [Shipping Is Superpower] + [Industry Collab Resume Tips] | Standup @ 11:30am         |
 |  12   | Thur, Sept 30 |           [Sprint Retro/Planning + Work Time]            |                           |
-|  13   |   Tu, Oct 5   |                 Quiz & Project Work Time                 | Standup @ 11:30am         |
+|  13   |   Tu, Oct 5   |                 MVP Presentations                 | Standup @ 11:30am         |
 |  14   |  Thur, Oct 7  |                    MVP Presentations                     |                           |
 
 <!-- tabs:end -->
