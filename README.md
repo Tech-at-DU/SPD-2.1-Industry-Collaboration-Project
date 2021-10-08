@@ -127,7 +127,7 @@ By the end of this course, you should have an MVP of your product that you will 
 
 - Get an average score of 2 on the above rubric to pass the assignment.
 - Have your project be live/launched (or on test-flight or demoable if partner doesn’t want it public)
-- Get an average score of 2 on your Peer Evaluation
+
 
 ### Presentation of MVP
 
@@ -145,12 +145,12 @@ By the end of this course, you should have an MVP of your product that you will 
 
 To pass this course you must meet the following requirements:
 
-- Pass all assignments according to their associated rubric
-- Get an average score above a 2 on your Peer Evaluation
+
 - Present an MVP of your product
   - if MVP is not live, can still pass if code exists for features that would earn a pass if live, and teammate is at or under limit of excused absenses
-  - product does not have to be live if partner specifically requests it not to be live (must show proof)
-- Pass at least 2 of three quizzes
+  - product does not have to be live if partner specifically requests it not to be live
+  - demonstrate consistent contributions via the weekly reflections
+- Pass at least 2 of the 3 classroom assignments
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
