@@ -43,20 +43,20 @@ Hybrid sections are a mixture of online and in person components. In person sess
 
 | Class |     Date      |                          Topics                          | In-Person Labs (Standups) |
 | :---: | :-----------: | :------------------------------------------------------: | :------------------------ |
-|   1   | Tues, Aug 24  |              [Ideation and Team Formation]               |                           |
-|   2   | Thur, Aug 26  |                  [Client Relationships]                  |                           |
-|   3   |  Tu, Aug 31   |                  Meet Industry Partner!                  | Standup @ 11:30am         |
-|   4   | Thur, Sept 2  |          [Managing Timelines and Dependencies]           |                           |
-|   5   |  Tu, Sept 7   |         [Sprint Planning + Assignment Feedback]          | Standup @ 11:30am         |
-|   6   | Thur, Sept 9  |          [Sprint Retro/Planning + PRD Feedback]          |                           |
-|   7   |  Tu, Sept 14  |                    [Decision Making]                     | Standup @ 11:30am         |
-|   8   | Thur, Sept 16 |        [Sprint Retro/Planning + Role Breakouts 1]        |                           |
-|   9   |  Tu, Sept 21  |             [Delegation and Follow Through]              | Standup @ 11:30am         |
-|  10   | Thur, Sept 23 | [Sprint Retro/Planning + Behavioral Interview Practice]  |                           |
-|  11   |  Tu, Sept 28  | [Shipping Is Superpower] + [Industry Collab Resume Tips] | Standup @ 11:30am         |
-|  12   | Thur, Sept 30 |           [Sprint Retro/Planning + Work Time]            |                           |
-|  13   |   Tu, Oct 5   |                 MVP Presentations                 | Standup @ 11:30am         |
-|  14   |  Thur, Oct 7  |                    MVP Presentations                     |                           |
+|   1   | Tues, Aug 18  |              [Ideation and Team Formation]               |                           |
+|   2   | Thur, Aug 23  |                  [Client Relationships]                  |                           |
+|   3   |  Tu, Aug 25   |                  Meet Industry Partner!                  | Standup @ 11:30am         |
+|   4   | Thur, Aug 30  |          [Managing Timelines and Dependencies]           |                           |
+|   5   |  Tu, Sept 1   |         [Sprint Planning + Assignment Feedback]          | Standup @ 11:30am         |
+|   6   | Thur, Sept 6  |          [Sprint Retro/Planning + PRD Feedback]          |                           |
+|   7   |  Tu, Sept 8  |                    [Decision Making]                     | Standup @ 11:30am         |
+|   8   | Thur, Sept 13 |        [Sprint Retro/Planning + Role Breakouts 1]        |                           |
+|   9   |  Tu, Sept 15  |             [Delegation and Follow Through]              | Standup @ 11:30am         |
+|  10   | Thur, Sept 20 | [Sprint Retro/Planning + Behavioral Interview Practice]  |                           |
+|  11   |  Tu, Sept 22  | [Shipping Is Superpower] + [Industry Collab Resume Tips] | Standup @ 11:30am         |
+|  12   | Thur, Sept 27 |           [Sprint Retro/Planning + Work Time]            |                           |
+|  13   |   Tu, Oct 29   |                 MVP Presentations                 | Standup @ 11:30am         |
+|  14   |  Thur, Oct 4  |                    MVP Presentations                     |                           |
 
 <!-- tabs:end -->
 
