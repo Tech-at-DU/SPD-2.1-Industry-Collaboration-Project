@@ -37,42 +37,9 @@ By the end of the course, you will be able to ...
 <!-- tabs:start -->
 <!-- omit in toc -->
 
-### **Section A: Dan - HYBRID**
+[See Schedule Here](https://docs.google.com/spreadsheets/d/152bPT7HkiieK9vTtgwb2iPyEfEUVz60myzv2TH-K-r4/edit#gid=2133705142)
 
 Hybrid sections are a mixture of online and in person components. In person sessions include labs and group work as noted on your schedule. These sections will run according to the Hybrid Delivery Policy: [make.sc/hybrid-delivery-policy](make.sc/hybrid-delivery-policy)
-
-| Class |     Date      |                          Topics                          | In-Person Labs (Standups) |
-| :---: | :-----------: | :------------------------------------------------------: | :------------------------ |
-|   1   | Tues, Aug 18  |              [Ideation and Team Formation]               |                           |
-|   2   | Thur, Aug 23  |                  [Client Relationships]                  |                           |
-|   3   |  Tu, Aug 25   |                  Meet Industry Partner!                  | Standup @ 11:30am         |
-|   4   | Thur, Aug 30  |          [Managing Timelines and Dependencies]           |                           |
-|   5   |  Tu, Sept 1   |         [Sprint Planning + Assignment Feedback]          | Standup @ 11:30am         |
-|   6   | Thur, Sept 6  |          [Sprint Retro/Planning + PRD Feedback]          |                           |
-|   7   |  Tu, Sept 8  |                    [Decision Making]                     | Standup @ 11:30am         |
-|   8   | Thur, Sept 13 |        [Sprint Retro/Planning + Role Breakouts 1]        |                           |
-|   9   |  Tu, Sept 15  |             [Delegation and Follow Through]              | Standup @ 11:30am         |
-|  10   | Thur, Sept 20 | [Sprint Retro/Planning + Behavioral Interview Practice]  |                           |
-|  11   |  Tu, Sept 22  | [Shipping Is Superpower] + [Industry Collab Resume Tips] | Standup @ 11:30am         |
-|  12   | Thur, Sept 27 |           [Sprint Retro/Planning + Work Time]            |                           |
-|  13   |   Tu, Oct 29   |                 MVP Presentations                 | Standup @ 11:30am         |
-|  14   |  Thur, Oct 4  |                    MVP Presentations                     |                           |
-
-<!-- tabs:end -->
-
-[ideation and team formation]: https://docs.google.com/presentation/d/1LsVpdljf7wE-ZHjcU8aVr8ZuVxbZxmN-n4hKHLGccII/edit#slide=id.p1
-[client relationships]: https://docs.google.com/presentation/u/2/d/1aIK7fGYTA8AByyqfuwPf_wrSeTcPZgrDMDq0sotzKQc/edit?usp=drive_web&ouid=110519350466014153713
-[sprint planning + assignment feedback]: https://docs.google.com/presentation/u/2/d/1HB9qspMRj1RCp07AQfP1qWjl2nwIs_LZCnbxnfxyEc4/edit?usp=drive_web&ouid=110519350466014153713
-[managing timelines and dependencies]: https://docs.google.com/presentation/d/1cRaWmpF9VkpICDaO4QyyqmT177jLAJxd_1mMwko-QFM/edit#slide=id.p1
-[sprint retro/planning + prd feedback]: https://docs.google.com/presentation/d/1UgT32VhHZIrjqDNdsFmKYs8BeFXLDRI13Jc4fe2ICDM/edit#slide=id.p1
-[decision making]: https://docs.google.com/presentation/d/1EBMX0qU3_RMGWVfrLhKdf2OaT8bLkqnHmEecY51YKUE/edit?usp=sharing
-[sprint retro/planning + role breakouts 1]: https://docs.google.com/presentation/d/1PPlqFfwb40WSEyGpaBUmGgCqj8TtBDuYd_7OtdooIxM/edit#slide=id.p1
-[delegation and follow through]: https://docs.google.com/presentation/d/1ui3aElXtUIZY4AZmR5rBUZxm-QfbKNxLMABHdhH_nMc/edit#slide=id.p1
-[sprint retro/planning + conflict jigsaw]: https://docs.google.com/presentation/d/1fpZ0hYrWg9KNPCq0ZzBS2zWhpTqwrboin_k7WAYjIkY/edit#slide=id.p1
-[sprint retro/planning + work time]: https://docs.google.com/presentation/d/1Gs0S9QOqp5guN5iclBJPufEyyhYW8FGnSXnO9sJS90U/edit#slide=id.p1
-[shipping is superpower]: https://docs.google.com/presentation/d/1ODQ_jM1xr2l_8OAZAYGHm9SW0QwcgfJEqJ3405_5Wqw/edit?copiedFromTrash
-[sprint retro/planning + behavioral interview practice]: https://docs.google.com/presentation/d/1y3pTDlXk7W2bMNfSyHNnKaR1xnZ5UtaC5M4kzJMKGDU/edit#slide=id.p1
-[industry collab resume tips]: https://docs.google.com/presentation/d/1xGRk9KF46ooy9F4SYfe_lfpbDKZzM26FEF06_b4kAA4/edit#slide=id.g9b349a57bd_29_0
 
 ### In Class Assignments
 
@@ -83,30 +50,12 @@ In place of a final exam, there will be **3 in class assignments** turned in dur
 - **Delegating and Follow Through - Tuesday, Sept 23**
 
 ## Class Assignments
+All assignments are in [the tracker](https://docs.google.com/spreadsheets/d/152bPT7HkiieK9vTtgwb2iPyEfEUVz60myzv2TH-K-r4/edit#gid=783350384) in columns G-W
 
-We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. _All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope._
-
-As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
-
-Your Gradescope login is your Dominican email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
-
-Although all assignments for this course live in gradescope but I repeat the main ones here:
-
-### Weekly Reflections
-
-Like a professional standup, you'll submit your weekly accomplishments, blockers, and asks for help
-
-### User Interviews, User Journeys, Wireframes, Entity Relation Diagrams (ERDs)
-
-**DUE DATE: Thursday, September 3**
-
-For your project, you will need to conduct user interviews, craft user journeys, build out wireframes, and construct ERDs to provide an origin story and starting point for your project. You will also be adding some of these to your product requirements document (PRD), which you will be sharing with your industry partner.
-
-**Evaluation:** You will be evaluated on this assignment using the [following rubric](https://docs.google.com/document/d/1-Cty_tXziOV1UHQqG1ngRK3Uft8NorXqjWeOC6eIYcc/edit#). You must get at least half of the points in the above rubric to pass the assignment.
+Some projects of note: 
 
 ### Product Requirements Document (PRD)
 
-**DUE DATE: Tuesday, September 7**
 
 For your project, you will construct a PRD, a document frequently used in industry to convey the purpose and specifications of a product. You will be sharing this artifact with your industry partner.
 
@@ -131,7 +80,7 @@ By the end of this course, you should have an MVP of your product that you will 
 
 ### Presentation of MVP
 
-**Presentation format for SPD 2.1 Final, Thursday Oct 7:**
+**Presentation format for SPD 2.1 Final**
 
 10 minute MVP presentation to Dan in class:
 1. Dan user tests features on app (share link)
