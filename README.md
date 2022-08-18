@@ -52,44 +52,6 @@ In place of a final exam, there will be **3 in class assignments** turned in dur
 ## Class Assignments
 All assignments are in [the tracker](https://docs.google.com/spreadsheets/d/152bPT7HkiieK9vTtgwb2iPyEfEUVz60myzv2TH-K-r4/edit#gid=783350384) in columns G-W
 
-Some projects of note: 
-
-### Product Requirements Document (PRD)
-
-
-For your project, you will construct a PRD, a document frequently used in industry to convey the purpose and specifications of a product. You will be sharing this artifact with your industry partner.
-
-Copy the [PRD Template](https://docs.google.com/document/d/10u8lI0VhBcj69hdTFDsZAdA_PgZ6136Bsvrnn8jwlmQ/edit?usp=sharing) and fill in all of the sections. Remember you will be putting in your User Journeys and Wireframes in this document as well. See [example PRD here](https://docs.google.com/document/d/19Pr8BRXLpHj1DcXMLLQ1tzAhG6YvqN-qdNlvLn4x6cE/edit#heading=h.blb9dxwl1maj).
-
-**Evaluation:** You will be evaluated on this assignment using the [Writing Rubric](https://docs.google.com/document/d/1T1oqHFoRo0kl7mPUTFupmsoEkLYltKsVgtqyGKDaCgY/edit?usp=sharing). To pass the assignment, you must...
-
-- Fill out each section of the PRD
-- Get an average score of 2 on the above rubric
-
-### MVP
-
-**DUE DATE: Thursday, October 7**
-
-By the end of this course, you should have an MVP of your product that you will present both in class and to your industry partner.
-
-**Evaluation:** You will be evaluated on this assignment using the [Portfolio Project Rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit?usp=sharing). To pass the assignment, you must...
-
-- Get an average score of 2 on the above rubric to pass the assignment.
-- Have your project be live/launched (or on test-flight or demoable if partner doesn’t want it public)
-
-
-### Presentation of MVP
-
-**Presentation format for SPD 2.1 Final**
-
-10 minute MVP presentation to Dan in class:
-1. Dan user tests features on app (share link)
-2. Each teammate shows their code and describes contributions
-3. PM explains future feature roadmap
-4. Share who will work on the intensive project during Intensive (if anybody)
-
-**Evaluation:** team must present to pass
-
 ## Evaluation
 
 To pass this course you must meet the following requirements:
